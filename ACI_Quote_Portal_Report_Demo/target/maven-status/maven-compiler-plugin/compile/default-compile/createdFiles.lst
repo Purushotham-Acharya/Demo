@@ -1,7 +1,0 @@
-com\atmecs\nsm\demo\ACI_Quote\testscript\SampleTestScript.class
-com\atmecs\nsm\demo\ACI_Quote\constant\LocatorKeyContainer.class
-com\atmecs\nsm\demo\ACI_Quote\testsuite\SampleTestSuiteBase.class
-com\atmecs\nsm\demo\ACI_Quote\testscript\SampleJiraTestScript.class
-com\atmecs\nsm\demo\ACI_Quote\runner\TestNGRunner.class
-com\atmecs\nsm\demo\ACI_Quote\testscript\AtmecsContactUsTest.class
-com\atmecs\nsm\demo\ACI_Quote\constant\FilePathConstants.class

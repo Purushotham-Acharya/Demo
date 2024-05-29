@@ -1,9 +1,0 @@
-2024-04-25 20:01:31,343  INFO [com.atmecs.nsm.demo.ACI_Quote.runner.TestNGRunner.main()] SampleTestScript:51 - Opening browser: chrome
-2024-04-25 20:01:37,425  INFO [com.atmecs.nsm.demo.ACI_Quote.runner.TestNGRunner.main()] SampleTestScript:51 - Maximizing browser window
-2024-04-25 20:01:37,528  INFO [com.atmecs.nsm.demo.ACI_Quote.runner.TestNGRunner.main()] SampleTestScript:51 - entering text: Selenium
-2024-04-25 20:01:37,707  INFO [com.atmecs.nsm.demo.ACI_Quote.runner.TestNGRunner.main()] SampleTestScript:51 - pressing enter key
-2024-04-25 20:01:39,708  INFO [com.atmecs.nsm.demo.ACI_Quote.runner.TestNGRunner.main()] SampleTestScript:51 - waiting for 2 second
-2024-04-25 20:01:41,732  INFO [com.atmecs.nsm.demo.ACI_Quote.runner.TestNGRunner.main()] SampleTestScript:51 - verifying page title
-2024-04-25 20:01:41,741  INFO [com.atmecs.nsm.demo.ACI_Quote.runner.TestNGRunner.main()] VerificationManager:243 - PASS : Verifying String Message  Actual value : Selenium - Google Search is same as Expected value: Selenium - Google Search
-2024-04-25 20:01:45,404  INFO [com.atmecs.nsm.demo.ACI_Quote.runner.TestNGRunner.main()] SlackManager:51 - Authentication failed. Provide a valid slack access token
-2024-04-25 20:02:06,454 ERROR [com.atmecs.nsm.demo.ACI_Quote.runner.TestNGRunner.main()] TestNGRunner:89 - Unknown error : : Cannot Upload the testng-results.xml Connection timed out: connect

@@ -1,0 +1,17 @@
+2024-04-25 20:31:12 INFO  TestNGEngineForDesiredSuites:49 - INFO: The value found with Environment variable Falcon is: Falcon
+2024-04-25 20:31:12 INFO  TestNGEngineForDesiredSuites:49 - INFO: The value found with Environment Module variable sample is: sample
+2024-04-25 20:31:12 INFO  TestNGEngineForDesiredSuites:49 - The value found with Environment variable WIN_7_chrome_53 is: WIN_7_chrome_53
+2024-04-25 20:31:15 DEBUG SimpleXMLErrorHandler:38 - Fatal Error in Parsing XML Doucment. XML is not well formed: The markup declarations contained or pointed to by the document type declaration must be well-formed.
+2024-04-25 20:33:08 INFO  TestNGEngineForDesiredSuites:49 - INFO: The value found with Environment variable Falcon is: Falcon
+2024-04-25 20:33:08 INFO  TestNGEngineForDesiredSuites:49 - INFO: The value found with Environment Module variable sample is: sample
+2024-04-25 20:33:08 INFO  TestNGEngineForDesiredSuites:49 - The value found with Environment variable WIN_7_chrome_53 is: WIN_7_chrome_53
+2024-04-25 20:33:08 DEBUG SimpleXMLErrorHandler:38 - Fatal Error in Parsing XML Doucment. XML is not well formed: The markup declarations contained or pointed to by the document type declaration must be well-formed.
+2024-04-25 20:34:32 INFO  SampleTestScript:49 - Opening browser: param-val-not-found
+2024-04-25 20:36:12 INFO  TestNGEngineForDesiredSuites:49 - INFO: The value found with Environment variable Falcon is: Falcon
+2024-04-25 20:36:12 INFO  TestNGEngineForDesiredSuites:49 - INFO: The value found with Environment Module variable sample is: sample
+2024-04-25 20:36:12 INFO  TestNGEngineForDesiredSuites:49 - The value found with Environment variable WIN_7_chrome_53 is: WIN_7_chrome_53
+2024-04-25 20:36:12 DEBUG SimpleXMLErrorHandler:38 - Fatal Error in Parsing XML Doucment. XML is not well formed: The markup declarations contained or pointed to by the document type declaration must be well-formed.
+2024-04-25 20:38:21 INFO  TestNGEngineForDesiredSuites:49 - INFO: The value found with Environment variable Falcon is: Falcon
+2024-04-25 20:38:21 INFO  TestNGEngineForDesiredSuites:49 - INFO: The value found with Environment Module variable sample is: sample
+2024-04-25 20:38:21 INFO  TestNGEngineForDesiredSuites:49 - The value found with Environment variable WIN_7_chrome_53 is: WIN_7_chrome_53
+2024-04-25 20:38:21 DEBUG SimpleXMLErrorHandler:38 - Fatal Error in Parsing XML Doucment. XML is not well formed: The markup declarations contained or pointed to by the document type declaration must be well-formed.
